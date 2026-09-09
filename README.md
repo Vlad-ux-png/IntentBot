@@ -27,7 +27,7 @@ This repository serves as a **Proof of Concept (PoC)** demonstrating how to impl
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Vlad-ux-png/IntentBot.git](https://github.com/Vlad-ux-png/IntentBot.git)
+   git clone https://github.com/Vlad-ux-png/IntentBot.git
    cd IntentBot
    ```
 
